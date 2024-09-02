@@ -1,2 +1,2 @@
-# travel-website-web-tech
+# Travel Website
 travel website using web technologies
